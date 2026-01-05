@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Login-Form.git
+    git clone https://github.com/abhishekgurjarin/Login-Form.git
     ```
 
 2. **Open the project directory**:
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Login Form project [here](https://abhishekboadgurjar.github.io/Login-Form/).
+You can check out the live demo of the Login Form project [here](https://abhishekgurjarin.github.io/Login-Form/).
 ## Screenshots
 ![Screenshot 2024-09-01 223659](https://github.com/user-attachments/assets/8c4fb59a-d5c2-4d5b-b005-c539f3f3ac3e)
 
@@ -63,5 +63,5 @@ This project was developed as part of my continuous learning journey in web deve
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
 
